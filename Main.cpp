@@ -1,6 +1,5 @@
 /* @Author
-* Student Name:Mehmet Ali Han Tutuk
-* Student ID : 150160106
+*  Name:Mehmet Ali Han Tutuk
 * Date: 01.11.2018  */
 #include <iostream>
 #include <fstream>
